@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+# About Me:
 Electronics and Communication Engineering student passionate about software development and emerging technologies. Proficient in java, Python with a strong foundation in problem-solving, and system design. Enthusiastic about building real-world applications in areas like IoT, embedded software, and AI-driven solutions
 
 
